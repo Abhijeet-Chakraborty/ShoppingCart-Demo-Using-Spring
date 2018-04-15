@@ -7,6 +7,6 @@
 <title>Shopping cart</title>
 </head>
 <body>
-	{greetings}
+	${greetings}
 </body>
 </html>
